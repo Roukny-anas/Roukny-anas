@@ -16,7 +16,19 @@
 
 ###
 
-<p align="left">- 📚 I’m dedicated to learning new technologies and continuously improving my skills.<br>- 💻 Experienced in various programming languages and frameworks, including Java, Python, React, and Spring Boot. I enjoy working on both front-end and back-end development.<br>- 🎯 My goal is to create scalable and efficient solutions that make a positive impact. <br>- 🌍 Let's connect and build something awesome together!</p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p align="left">
+      - 📚 I’m dedicated to learning new technologies and continuously improving my skills.<br>
+      - 💻 Experienced in various programming languages and frameworks, including Java, Python, React, and Spring Boot. I enjoy working on both front-end and back-end development.<br>
+      - 🎯 My goal is to create scalable and efficient solutions that make a positive impact.<br>
+      - 🌍 Let's connect and build something awesome together!
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXI1eGliNWYycjA1NWJ4dmM0aXM5aWZvOHIzcTR2cjV4dm90anM3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
+  </div>
+</div>
 
 ###
 
@@ -109,5 +121,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Roukny-anas/count.svg?"  />
 </div>
-
-###
