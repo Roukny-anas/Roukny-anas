@@ -8,15 +8,16 @@
 
 <h3 align="left">About Me</h3>
 
-<div>
+<div style="display: flex; align-items: center;">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXI1eGliNWYycjA1NWJ4dmM0aXM5aWZvOHIzcTR2cjV4dm90anM3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
-  <p>
+  <p style="margin-left: 20px;">
     - 📚 I’m dedicated to learning new technologies and continuously improving my skills.<br>
     - 💻 Experienced in various programming languages and frameworks, including Java, Python, React, and Spring Boot. I enjoy working on both front-end and back-end development.<br>
     - 🎯 My goal is to create scalable and efficient solutions that make a positive impact.<br>
     - 🌍 Let's connect and build something awesome together!
   </p>
 </div>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
