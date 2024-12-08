@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXI1eGliNWYycjA1NWJ4dmM0aXM5aWZvOHIzcTR2cjV4dm90anM3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
+  
 </div>
 
 <h1 align="center">Hi 👋, I'm ROUKNY Anas</h1>
